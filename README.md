@@ -1,2 +1,1 @@
-# hemal
-About me
+# Hello👋, I am Hemal.
